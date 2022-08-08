@@ -512,7 +512,7 @@ enum week{MON,TUE,WED,THUR,FRI,SAT,SUN}
 
 关系如图所示（下图没有列出所有异常类）
 
-![img](.\picture\v2-ec78fb9835b93c102aa113208173486c_720w.png)
+![img](https://github.com/forsthetwo/java_notes/blob/main/picture/v2-ec78fb9835b93c102aa113208173486c_720w.png)
 
 
 
