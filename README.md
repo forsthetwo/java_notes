@@ -1,4 +1,4 @@
-
+[Ⅰ `java.lang`包中的类](#Ⅰ-`java.lang`包中的类)
 java类用法
 
 ## Ⅰ `java.lang`包中的类
