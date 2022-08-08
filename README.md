@@ -1,3 +1,4 @@
+[io](https://github.com/forsthetwo/java_notes#%E2%85%B4-javaio%E5%8C%85%E4%B8%AD%E7%9A%84%E7%B1%BB)
 java类用法
 
 ## Ⅰ `java.lang`包中的类
