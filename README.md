@@ -1,3 +1,7 @@
+
+
+[TOC]
+
 java类用法
 
 ## Ⅰ `java.lang`包中的类
