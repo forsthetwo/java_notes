@@ -1,4 +1,8 @@
-[io](https://github.com/forsthetwo/java_notes#%E2%85%B4-javaio%E5%8C%85%E4%B8%AD%E7%9A%84%E7%B1%BB)
+前言：
+建议下载后使用Typora查看
+共两种阅读方式
+1.学习路线：建议按照标题序号顺序查看
+2.查字典路线：建议按照包分类查看
 java类用法
 
 ## Ⅰ `java.lang`包中的类
