@@ -1,9 +1,3 @@
-[Ⅰ `java.lang`包中的类](#Ⅰ-`java.lang`包中的类)
-
-[1、String类](#1、String类)
-
-[1.1 创建对象](#1.1-创建对象)
-[1.2 String方法](#1.2-String方法)
 java类用法
 
 ## Ⅰ `java.lang`包中的类
