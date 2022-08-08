@@ -2958,7 +2958,7 @@ System.out.println(x1)
 true
 ```
 
-![image-20220402140729736](.\picture\image-20220402140729736.png)
+![image-20220402140729736](https://github.com/forsthetwo/java_notes/blob/main/picture/image-20220402140729736.png)
 
 ```java
  //方法二  传参：无需传参
@@ -2971,7 +2971,7 @@ System.out.println(x1)
 true
 ```
 
-![image-20220402141334920](.\picture\image-20220402141334920.png)
+![image-20220402141334920](https://github.com/forsthetwo/java_notes/blob/main/picture/image-20220402141334920.png)
 
 ##### 19.2.12 获取目录下的文件和文件夹的File对象（listFiles方法）
 
