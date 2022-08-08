@@ -60,7 +60,7 @@ false
 true
 ```
 
-##### 1.2.2 字符串提取（charAt方法 substring方法 ）
+##### 1.2.2 字符串提取（charAt方法substring方法 ）
 
 ```java
 //传入参数：下标（索引），从0开始
