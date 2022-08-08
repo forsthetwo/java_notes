@@ -3109,7 +3109,7 @@ f2.flush(); //强制把内存中驻留的字节刷入硬盘
 f2.close(); //关闭流
 ```
 
-![image-20220429151219096](picture/image-20220429151219096.png)
+![image-20220429151219096](https://github.com/forsthetwo/java_notes/blob/main/picture/image-20220429151219096.png)
 
 ### 32 FileReader（字符输入流类）
 
